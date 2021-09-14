@@ -3,7 +3,7 @@
 > This python programme shows example of sampling based path planning algorithm RRT.
 
 > obstacles, graphbounds, start position and end position are given as input which will be used in the algorithem.
->> Note that obtsacles are given as tuples of (center x, center y, radius)
+> Note that obtsacles are given as tuples of (center x, center y, radius)
 
 > You can simply modify few lines to give obstacles as input rathen than read csv.
 
